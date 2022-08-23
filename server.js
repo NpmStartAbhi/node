@@ -17,10 +17,6 @@ function sum (){
   let x = "Hi";
 }
 
-router.get('/', function(req, res){
-  res.send("sum()");
-  
-});
 
 router.get('/:id', function(req, res){
 });
