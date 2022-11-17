@@ -15,6 +15,7 @@ window.onload = function () {
       document.getElementById("msg").innerHTML =
         "Please provide correct credentials.";
     }
+
   };
 
   window.addEventListener(
