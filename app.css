@@ -1,9 +1,10 @@
 body {
     background: rgb(231, 238, 238);
+    background-image: url(./image.jpg);
   }
 
 header {
-    color: rgb(143, 111, 111);
+    color: rgb(246, 172, 172);
     font-size: 28px;
     font-weight: bold;
     margin-left: 25%;
